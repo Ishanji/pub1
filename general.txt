@@ -19,4 +19,8 @@ git push -u origin main
 This is git
 
 git log 
-git reset --hard <commit>
+
+git branch
+git branch feature
+git branch
+git checkout f1
