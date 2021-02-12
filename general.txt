@@ -24,3 +24,11 @@ git branch
 git branch feature
 git branch
 git checkout f1
+git branch 
+git branch -d f1
+
+git fetch
+git merge origin/master 
+
+git pull
+
